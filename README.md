@@ -1,2 +1,2 @@
 # R-Programming-2
-This repositary includes R variables such as numeric, character, logical, integer. And create vectors, lists, and a matrix with random values. And have use the length function. Use for and while loops. I have use the matrix function also and as for the part 2 I have used the mtcars dataset
+This repository demonstrates key R programming concepts. It includes examples of variables (numeric, character, logical, integer), vectors, lists, and matrices with random values. Key functions like length() and control structures such as for and while loops are also utilized. Additionally, Part 2 explores the mtcars dataset for data analysis.
